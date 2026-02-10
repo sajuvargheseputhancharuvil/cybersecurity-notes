@@ -27,4 +27,3 @@ This section contains structured notes and key takeaways from the Introduction t
 21. [Penetration Testers](./penetration-testers.md)
 22. [Security Operations Center (SOC)](./soc.md)
 23. [Bug Bounty Hunter](./bug-bounty.md)
-24. [Recommendations](./recommendations.md)
