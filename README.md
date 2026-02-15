@@ -4,7 +4,7 @@ Structured study notes covering core cybersecurity topics, blue-team fundamental
 ## Modules Index
 
 1. [Introduction to Information Security](./01-infosec-intro/README.md)
-2. [Network Foundations](./02-network-foundations/README.md)
+2. [Network Foundations](./02-network-fundamentals/README.md)
 3. [Introduction to Networking](./03-intro-networking/README.md)
 4. [Linux Fundamentals](./04-linux-fundamentals/README.md)
 5. [Introduction to Bash Scripting](./05-bash-scripting/README.md)
