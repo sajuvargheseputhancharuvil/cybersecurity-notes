@@ -1,3 +1,5 @@
+## 3.2 Network Types
+
 Networks can be categorized based on:
 - Geographic scope  
 - Technology used  
