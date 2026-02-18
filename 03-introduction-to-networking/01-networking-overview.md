@@ -1,5 +1,4 @@
-# Module 3 – INTRODUCTION TO NETWORKING  
-## 3.1 Networking Overview – Architecture, Segmentation & Real-World Lessons (CDSA-Focused)
+## 3.1 Networking Overview
 
 **Networking is not just connectivity — it is control.**
 
